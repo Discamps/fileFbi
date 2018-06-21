@@ -33,6 +33,6 @@ if ($infoFile['extension'] == 'txt' || $infoFile['extension'] == 'html') {
 ?>
 
 <hr>
-<a href="/">Retour</a>
+<a href="/">Retour ?</a>
 
 <?php include('inc/foot.php'); ?>
